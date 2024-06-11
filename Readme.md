@@ -22,4 +22,6 @@ stow . -t ~
 
 # Extras
 
+Install [oh-my-posh](https://ohmyposh.dev/docs/installation/linux)
+Install [auto-suggestions](https://github.com/zsh-users/zsh-autosuggestions)
 Install [Zoxide](https://github.com/ajeetdsouza/zoxide)
